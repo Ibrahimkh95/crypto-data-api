@@ -2,14 +2,14 @@ import pandas as pd
 import psycopg2
 
 # read data
-df = pd.read_csv("../data/crypto_clean.csv")
+df = pd.read_csv("C:\Projects\crypto-data-pipeline/data/crypto_clean.csv")
 
 # connect wit Postres
 conn = psycopg2.connect(
     host="localhost",
     database="crypto_db",
     user="postgres",
-    password="password"
+    password="12356"
 )
 
 cur = conn.cursor()
