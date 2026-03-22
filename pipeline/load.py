@@ -9,7 +9,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="crypto_db",
     user="postgres",
-    password="12356"
+    password="123456"
 )
 
 cur = conn.cursor()
