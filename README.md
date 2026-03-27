@@ -52,3 +52,19 @@ GET /api/v1/health
   "offset": 0,
   "data": [...]
 }
+{
+  "max_price": 68817,
+  "min_price": 0.091549,
+  "avg_price": 7162.257828100001,
+  "total_market_cap": 2171923413716
+}
+[
+  {
+    "id": "bitcoin",
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "price": 68817,
+    "market_cap": 1376087523900,
+    "volume": 28382152890
+  }
+]
