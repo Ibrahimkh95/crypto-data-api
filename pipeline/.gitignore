@@ -1,0 +1,11 @@
+﻿# ملفات Python المترجمة
+__pycache__/
+*.pyc
+
+# ملفات البيئة الحساسة
+.env
+
+# ملفات بيانات كبيرة أو حساسة
+data/raw/
+data/processed/
+data/output/

@@ -51,6 +51,7 @@ GET /api/v1/health
   "limit": 10,
   "offset": 0,
   "data": [...]
+<<<<<<< HEAD
 }
 {
   "max_price": 68817,
@@ -68,3 +69,6 @@ GET /api/v1/health
     "volume": 28382152890
   }
 ]
+=======
+}
+>>>>>>> df67633 (Initial commit - Crypto Data API)
