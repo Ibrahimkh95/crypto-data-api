@@ -52,6 +52,7 @@ GET /api/v1/health
   "offset": 0,
   "data": [...]
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 {
   "max_price": 68817,
@@ -72,3 +73,6 @@ GET /api/v1/health
 =======
 }
 >>>>>>> df67633 (Initial commit - Crypto Data API)
+=======
+}# crypto-data-api-1
+>>>>>>> fbe0c37 (first commit)
