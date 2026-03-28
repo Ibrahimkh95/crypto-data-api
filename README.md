@@ -75,4 +75,8 @@ GET /api/v1/health
 >>>>>>> df67633 (Initial commit - Crypto Data API)
 =======
 }# crypto-data-api-1
+<<<<<<< HEAD
 >>>>>>> fbe0c37 (first commit)
+=======
+# crypto-data-api-1
+>>>>>>> 126cee8 (first commit)
